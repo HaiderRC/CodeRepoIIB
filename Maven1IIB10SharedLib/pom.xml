@@ -13,7 +13,7 @@
                   <activeByDefault>true</activeByDefault>
             </activation>
             <properties>
-                <workspace>C:\Users\Administrator\IBM\IIBT10\maven</workspace>
+                <workspace>C:\Users\Administrator\IBM\IIBT10\CodeRepoIIB</workspace>
                 <initialDeletes>**/*.jar</initialDeletes>
                 <unpackIibDependenciesIntoWorkspace>false</unpackIibDependenciesIntoWorkspace>
                 <pathToMqsiProfileScript>C:/Progra~1/IBM/IIB/10.0.0.7/server/bin/mqsiprofile.cmd</pathToMqsiProfileScript>
